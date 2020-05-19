@@ -17,13 +17,19 @@ Code of Conduct (do we need this?) This project and everyone participating in it
 
 Contributing Pull requests welcome
 
-# Setup Arduino Schematics
+# Step 1: Setup Arduino Schematics
 
 Link to Forum Arduino Schematics
 
 [And see Schematics explained here](SetupArduinoBoard.md)
 
-# Install code
+# Step 2: Install code
+
+**Go to the following link to install Arduino on your laptop:** 
+https://www.arduino.cc/en/Main/Software
+
+**Go to the follow Github link to grab your Arduino code:**
+[Basic code](SetupArduinoBoard.md)
 
 **Install the MKR WiFi 1010 Arduino board to get started:**
 
@@ -45,7 +51,7 @@ MQTT Client by Andreas Motzek - click install all
 
 And press on Install
 
-# Change the code to your situation
+# Step 3: Change the code to your situation
 
 **Assign which subscriber you are:**
 
