@@ -17,6 +17,8 @@ Code of Conduct (do we need this?) This project and everyone participating in it
 
 Contributing Pull requests welcome
 
+Now we're gonna explain to you how you can set up the basic setup of the robot:
+
 # Step 1: Setup Arduino Schematics
 
 Link to Forum Arduino Schematics
