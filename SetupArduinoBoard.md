@@ -11,7 +11,17 @@ You need the following materials to setup the breadboard:
 - 5 yellow wires (or any other color you have)
 - 1 breadbord
 
+Setup 4 times
+
+![]()
+
+Setup 1 time
+
+![]()
+
 **Guidance advice:**
+
+![]()
 
 - Using red wires to VCC (3.3V)
 - Using black wires to Ground
