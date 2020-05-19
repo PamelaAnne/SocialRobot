@@ -21,6 +21,8 @@ Contributing Pull requests welcome
 
 Link to Forum Arduino Schematics
 
+[And see Schematics explained here](SetupArduinoBoard.md)
+
 # Install code
 
 **Install the MKR WiFi 1010 Arduino board to get started:**
