@@ -129,4 +129,4 @@ Do it from left to right, so you know later from who the led light is coming.
 
 https://shiftr.io/get-started
 
-[And see Shiftr.io explained here] ()
+[And see Shiftr.io explained here] (Shiftr.ioExplained.md)
