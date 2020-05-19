@@ -16,3 +16,99 @@ License Social-Robotics is licensed under the MIT license. https://opensource.or
 Code of Conduct (do we need this?) This project and everyone participating in it is governed by the '...' Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to '...'.
 
 Contributing Pull requests welcome
+
+# Setup Arduino Schematics
+
+Link to Forum Arduino Schematics
+
+# Install code
+
+**Install the MKR WiFi 1010 Arduino board to get started:**
+
+Hulpmiddelen —> Board —> Board Beheer —> Search for
+
+Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
+
+.
+
+**Install the following two libraries to get started:**
+
+Go in Arduino to  Schets —> Bibliotheek gebruiken —> Bibliotheek beheren —> Search for:
+
+WiFiNINA by Arduino
+
+MQTT by Joel Gaehwiller
+
+MQTT Client by Andreas Motzek - click install all
+
+And press on Install
+
+# Change the code to your situation
+
+**Assign which subscriber you are:**
+
+Set on line 118 and line 122 which button you are.
+```
+client.publish("/button1", “1");
+
+client.publish("/button1", "0");
+```
+Here you see your button 1.
+
+.
+
+**Setup WiFi and MQTT login code:**
+
+On line 6 and 7 you see:
+```
+const char WIFI_SSID[] = “”;
+
+const char WIFI_PASS[] = "";
+```
+Fill in between “" your WiFi ID and Password.
+
+.
+
+On line 10, 11 and 12 you see:
+```
+const char key[] = ""; 
+
+const char secret[] = "";
+
+const char device[] = "";
+```
+Fill in between “" your key and secret you got from https://shiftr.io/ and name yourself is device.
+
+.
+
+**Assign the pins:**
+
+On line 21 you see:
+```
+const int buttonPin = ;
+```
+Fill in between = and ; your buttonPin number coming from the breadboard.
+
+.
+
+On line 27 till 30 you see:
+```
+int ledPin1 = ;
+
+int ledPin2 = ;
+
+int ledPin3 = ;
+
+int ledPin4 = ;
+```
+Fill in between = and ; your ledPin number coming from the breadboard. 
+
+Do it from left to right, so you know later from who the led light is coming.
+
+# Explain code
+
+Link to Forum Code explained
+
+# Explain shiftr.io
+
+Link to Forum Shiftr.io explained
