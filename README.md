@@ -109,7 +109,7 @@ Do it from left to right, so you know later from who the led light is coming.
 
 Link to Forum Code explained
 
-[And see Code explained here](docs/ExplainBasicCode.md)
+[And see Code explained here](ExplainBasicCode.md)
 
 # Explain shiftr.io
 
