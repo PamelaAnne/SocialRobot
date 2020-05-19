@@ -33,7 +33,7 @@ https://www.arduino.cc/en/Main/Software
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code and use the folder Basic_LEDS.
+Download the code with the green button in the top right corner and use the folder Basic_LEDS.
 
 .
 
