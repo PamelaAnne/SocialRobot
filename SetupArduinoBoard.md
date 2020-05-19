@@ -13,15 +13,15 @@ You need the following materials to setup the breadboard:
 
 Setup 4 times
 
-![]()
+![](Images/LED.png)
 
 Setup 1 time
 
-![]()
+![](Images/Button.png)
 
 **Guidance advice:**
 
-![]()
+![](Images/BasicLED.jpg)
 
 - Using red wires to VCC (3.3V)
 - Using black wires to Ground
