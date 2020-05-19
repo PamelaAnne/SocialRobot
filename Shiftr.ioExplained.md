@@ -27,4 +27,5 @@ Finally, you can connect with your client to shiftr.io!
 Here you see signals coming through. 
 
 You can see which person you are on here and the black circle shows you are signaling through.
+
 ![](Images/Shiftr5.png)
