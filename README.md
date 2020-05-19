@@ -114,3 +114,6 @@ Link to Forum Code explained
 # Explain shiftr.io
 
 Link to Forum Shiftr.io explained
+
+https://shiftr.io/get-started
+
