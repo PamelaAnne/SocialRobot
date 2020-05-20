@@ -39,7 +39,7 @@ Download the code with the green button in the top right corner and use the **fo
 
 **Install the MKR WiFi 1010 Arduino board to get started:**
 
-Hulpmiddelen —> Board —> Board Beheer —> Search for
+Tools —> Board —> Boards Manager —> Search for
 
 Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
 
@@ -47,7 +47,7 @@ Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
 
 **Install the following two libraries to get started:**
 
-Go in Arduino to  Schets —> Bibliotheek gebruiken —> Bibliotheek beheren —> Search for:
+Go in Arduino to Sketch —> Include Library —> Manage Libraries —> Search for:
 
 WiFiNINA by Arduino
 
