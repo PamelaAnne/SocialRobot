@@ -21,8 +21,6 @@ Now we're gonna explain to you how you can set up the basic setup of the robot:
 
 # Step 1: Setup Arduino Schematics
 
-Link to Forum Arduino Schematics
-
 [And see Schematics explained here](SetupArduinoBoard.md)
 
 # Step 2: Install code
@@ -35,7 +33,7 @@ https://www.arduino.cc/en/Main/Software
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder Basic_LEDS.
+Download the code with the green button in the top right corner and use the **folder Basic_LEDS.**
 
 .
 
@@ -63,7 +61,7 @@ And press on Install
 
 **Assign which subscriber you are:**
 
-Set on line 118 and line 122 which button you are.
+Set on line 118 and line 122 which button you are, so /button1 or /button2 etc.
 ```
 client.publish("/button1", “1");
 
@@ -79,9 +77,9 @@ On line 6 and 7 you see:
 ```
 const char WIFI_SSID[] = “”;
 
-const char WIFI_PASS[] = "";
+const char WIFI_PASS[] = “”;
 ```
-Fill in between “" your WiFi ID and Password.
+Fill in between “” your WiFi ID and Password.
 
 .
 
@@ -93,7 +91,7 @@ const char secret[] = "";
 
 const char device[] = "";
 ```
-Fill in between “" your key and secret you got from https://shiftr.io/ and name yourself is device.
+Fill in between “” your key and secret you got from https://shiftr.io/ and name yourself is device.
 
 .
 
