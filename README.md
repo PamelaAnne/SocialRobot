@@ -1,7 +1,5 @@
 # SocialRobot
 
-For Arduino with Shiftr.io
-
 We invite you to join us in exploring the ways in which social robotics can support people in creating and discovering their social patterns and needs.
 
 Our master branch contains all the code necessary for a basic set up, input and output. We have tried to make this process as modular as possible, so once you have your basic set up complete you can go wild! Customise your bot by using different sensors/actuators as input/output.
