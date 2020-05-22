@@ -37,6 +37,8 @@ Download the code with the green button in the top right corner and use the **fo
 
 **Install the MKR WiFi 1010 Arduino board to get started:**
 
+You need to install the specific board manager to be able to recognize the right Arduino Board.
+
 Tools —> Board —> Boards Manager —> Search for
 
 Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
@@ -44,6 +46,8 @@ Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
 .
 
 **Install the following two libraries to get started:**
+
+You need to install the specific library to be able to recognize the code that make the connection with the WiFi and the Shiftr.io MQTT broker.
 
 Go in Arduino to Sketch —> Include Library —> Manage Libraries —> Search for:
 
@@ -91,7 +95,9 @@ const char secret[] = "";
 
 const char device[] = "";
 ```
-Fill in between “” your key and secret you got from https://shiftr.io/ and name yourself is device.
+Fill in between “” your key and secret you got from https://shiftr.io/
+
+At device[] between “” you can assign your name, so that on Shiftr.io you can recognize who you are.
 
 .
 
