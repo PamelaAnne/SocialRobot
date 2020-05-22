@@ -133,6 +133,10 @@ You're able to start clicking the button to signaling over to eachother and swit
 
 Also you can see yourself on shiftr.io.
 
+# Error solving
+
+
+
 # Explain code
 
 [And see Code explained here](ExplainBasicCode.md)
