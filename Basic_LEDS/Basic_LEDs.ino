@@ -15,7 +15,7 @@ const char device[] = ""; // broker device identifier
 int status = WL_IDLE_STATUS;
 WiFiClient net;
 MQTTClient client;
-unsigned long lastMillis = 0;
+unsigned long lastMillis = 0; // the last time the output pin was toggled
 
 // setting buttonPin 
 const int buttonPin = 4;
@@ -105,7 +105,7 @@ void loop() {
   // Also can be another INPUT that you read as LDR, Acceloremeter, switch etc.
   int buttonClick = digitalRead(buttonPin); //digitalRead your button value HIGH or LOW
 
-  if (millis() - lastMillis > 1000) { 
+  if (millis() - lastMillis > 1000) { // 1000 is the debounce time; increase if the output flickers
     lastMillis = millis(); // equal to
 
     //Button 1    
@@ -113,16 +113,17 @@ void loop() {
       if (buttonClick == 1) {
         buttonState = !buttonState; // opposite of buttonState        
         if (buttonState == HIGH){ // if button pressed    //at which VALUE (HIGH, LOW, Numbers) of the INPUT WHAT does it need to do
-          client.publish("/button4", "1"); // client /button1 (Let that be your signal) sending value "1" (this can go further to 2, 3, 4 etc.) 
+          client.publish("/button1", "1"); // client /button1 (Let that be your signal) sending value "1" (this can go further to 2, 3, 4 etc.) 
           Serial.println("1"); // you see serial monitor
           Serial.println("clicked");
         } else{ // if button not pressed
-          client.publish("/button4", "0"); // client /button1 send value "0"
+          client.publish("/button1", "0"); // client /button1 send value "0"
           Serial.println("0"); // you see serial monitor
         }  
         delay(50); // wait for a moment
       }
       lastButtonClick = buttonClick; // equal to
+      
     }
     
     lastMillis = millis(); // equal to

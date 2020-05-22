@@ -1,22 +1,22 @@
 // check your connection with WiFi and MQTT broker
 void connect() {
-  Serial1.print("checking wifi..."); // you see serial monitor
+  Serial.print("checking wifi..."); // you see serial monitor
   while ( status != WL_CONNECTED) { // check if connected
     status = WiFi.begin(WIFI_SSID, WIFI_PASS);
     Serial1.print("."); // you see serial monitor
     delay(1000);
   }
-  Serial1.println("\nconnected to WiFi!\n"); // you see serial monitor
+  Serial.println("\nconnected to WiFi!\n"); // you see serial monitor
 
   client.begin(mqttServer, mqttServerPort, net); // check the server
 
-  Serial1.println("connecting to broker..."); // you see serial monitor
+  Serial.println("connecting to broker..."); // you see serial monitor
   while (!client.connect(device, key, secret)) { // check the broker of shiftr.io
-    Serial1.print("."); // you see serial monitor
+    Serial.print("."); // you see serial monitor
     delay(1000);
   }
 
-  Serial1.println("Connected to MQTT"); // you see serial monitor
+  Serial.println("Connected to MQTT"); // you see serial monitor
 
   client.onMessage(messageReceived); // connected with void(messageReceived)
 
