@@ -65,7 +65,7 @@ client.publish("/button1", “1");
 
 client.publish("/button1", "0");
 ```
-Here you see your button 1.
+Here above in the code you're seeign that your assigned as button 1.
 
 .
 
