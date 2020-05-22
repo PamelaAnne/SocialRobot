@@ -49,9 +49,9 @@ Go in Arduino to Sketch —> Include Library —> Manage Libraries —> Search f
 
 WiFiNINA by Arduino
 
-MQTT by Joel Gaehwiller
+MQTT by Joel Gaehwiller - you need to scroll more down to be able to find it
 
-MQTT Client by Andreas Motzek - click install all
+MQTT Client by Andreas Motzek - click install all 
 
 And press on Install
 
