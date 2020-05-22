@@ -22,7 +22,7 @@ Setup 1 time on breadbord
 
 **Guidance advice:**
 
-- Using red wires to VCC (3.3V)
+- Using red wires to VCC
 - Using black wires to Ground
 - Using yellow wires (or other colors) to Pins
 - All black wires to (-) row first and then to GROUND
