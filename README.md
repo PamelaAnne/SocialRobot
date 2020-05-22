@@ -125,6 +125,9 @@ Fill in between = and ; your ledPin number coming from the breadboard.
 
 Do it from left to right, so you know later from who the led light is coming.
 
+**Now you are ready the run the code, are able to start clicking the button to signaling over to eachother and switching lights on and off. Also you can see yourself on shiftr.io**
+
+
 # Explain code
 
 [And see Code explained here](ExplainBasicCode.md)
