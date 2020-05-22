@@ -3,7 +3,7 @@ void connect() {
   Serial.print("checking wifi..."); // you see serial monitor
   while ( status != WL_CONNECTED) { // check if connected
     status = WiFi.begin(WIFI_SSID, WIFI_PASS);
-    Serial1.print("."); // you see serial monitor
+    Serial.print("."); // you see serial monitor
     delay(1000);
   }
   Serial.println("\nconnected to WiFi!\n"); // you see serial monitor
