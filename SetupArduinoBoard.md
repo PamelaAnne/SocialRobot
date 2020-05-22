@@ -4,7 +4,8 @@ Take the above part.
 
 You need the following materials to setup the breadboard:
 - 4 LEDs
-- 5 Resistors
+- 4 220 ohm resistors
+- 1 10K ohm resistor
 - 1 Button
 - 5 black wires
 - 2 red wires
@@ -21,8 +22,6 @@ Setup 1 time on breadbord
 
 **Guidance advice:**
 
-![](Images/BasicLED.jpg)
-
 - Using red wires to VCC (3.3V)
 - Using black wires to Ground
 - Using yellow wires (or other colors) to Pins
@@ -32,6 +31,8 @@ Setup 1 time on breadbord
 - Long leg of LED (+) goes to resistor and then to matching Pin
 - One side button to VCC
 - Other side button to Pin and on same side from resistor to GROUND
+
+![](Images/BasicLED.jpg)
 
 **After setting up the breadboard:**
 
