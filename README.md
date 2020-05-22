@@ -57,9 +57,11 @@ And press on Install
 
 # Step 3: Change the code to your situation
 
+For this check in Preference: display line numbers.
+
 **Assign which subscriber you are:**
 
-Set on line 118 and line 122 which button you are, so /button1 or /button2 etc.
+Set on line 116 and line 120 which button you are, so /button1 or /button2 etc.
 ```
 client.publish("/button1", “1");
 
