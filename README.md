@@ -55,7 +55,7 @@ WiFiNINA by Arduino
 
 MQTT by Joel Gaehwiller - you need to scroll more down to be able to find it
 
-MQTT Client by Andreas Motzek - click install all 
+MQTT Client by Andreas Motzek - click install all, so also Cooperative Multitasking
 
 And press on Install
 
