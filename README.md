@@ -17,6 +17,10 @@ Contributing Pull requests welcome
 
 Now we're gonna explain to you how you can set up the basic setup of the robot:
 
+# More Step by Step
+
+[And see setting up in smaller steps explained here](MoreStepByStep.md)
+
 # Step 1: Setup Arduino Schematics
 
 [And see Schematics explained here](SetupArduinoBoard.md)
