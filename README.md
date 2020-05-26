@@ -11,7 +11,6 @@ Core team: Wendy, Jasper, Veronika, Pamela.
 
 License Social-Robotics is licensed under the GNU GPL V3 Licence https://www.gnu.org/licenses/gpl-3.0.txt
 
-Code of Conduct (do we need this?) This project and everyone participating in it is governed by the '...' Code of Conduct. By participating, you are expected to uphold this code. Please report unacceptable behavior to '...'.
 
 Contributing Pull requests welcome
 
