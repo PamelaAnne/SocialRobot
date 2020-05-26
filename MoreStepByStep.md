@@ -14,7 +14,7 @@ You need the following materials to setup the breadboard:
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder StepByStepBasic_LEDS and use file ButtonLedNoMQTT.
+Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLedNoMQTT**.
 
 This code doesn't use yet the MQTT broker Shiftr.io and WiFi network
 
@@ -22,7 +22,7 @@ This code doesn't use yet the MQTT broker Shiftr.io and WiFi network
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder StepByStepBasic_LEDS and use file ButtonLed.
+Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLed**.
 
 This code does use the MQTT broker Shiftr.io and WiFi network
 
@@ -42,7 +42,7 @@ You need the following materials to setup the breadboard:
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder StepByStepBasic_LEDS and use file ButtonLed2.
+Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLed2**.
 
 # Step 4
 
@@ -60,4 +60,4 @@ You need the following materials to setup the breadboard:
 
 **Go to the follow Github link to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder Basic_LEDS.
+Download the code with the green button in the top right corner and use the folder **Basic_LEDS**.
