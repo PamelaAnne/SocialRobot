@@ -16,156 +16,45 @@ Contributing Pull requests welcome
 
 Now we're gonna explain to you how you can set up the basic setup of the robot:
 
-# Step 1: Setup Arduino Schematics
+# Making the robot
 
-[And see Schematics explained here](SetupArduinoBoard.md)
+## Step 1: Setup Arduino Schematics
+With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca.
 
-# More Step by Step (start with one button and led first)
+1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/SetupArduinoBoard.md)
 
-[And see setting up in smaller steps explained here](MoreStepByStep.md)
+1.2 [Setting up in smaller steps](https://github.com/PamelaAnne/SocialRobot/blob/master/MoreStepByStep.md)
 
-# Step 2: Install code
+## Step 2: Arduino code
+With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
 
-**Go to the following link to install Arduino on your laptop:**
+2.1 [Install code](https://github.com/PamelaAnne/SocialRobot/blob/master/InstallCode.md)
 
-https://www.arduino.cc/en/Main/Software
+2.2 [Change the code to your situation](https://github.com/PamelaAnne/SocialRobot/blob/master/ChangeCode.md)
 
-.
+2.3 [Run code](https://github.com/PamelaAnne/SocialRobot/blob/master/RunCode.md)
 
-**Go to the follow Github link to grab your Arduino code:**
+2.4 [Error solving](https://github.com/PamelaAnne/SocialRobot/blob/master/ErrorSolving.md)
 
-Download the code with the green button in the top right corner and use the **folder Basic_LEDS.**
+2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainCode.md)
 
-.
 
-**Install the MKR WiFi 1010 Arduino board to get started:**
+## Step 3: Shiftr.io
+With the basic setup of Shiftr.io, your robots can communicate with each other over distance. Shiftr.io provides you with the ability to share your data and access data of others. Sharing data publicly is encouraged by the platform's design. In the future, we plan to have additional features that allow more interactions between users and their namespaces.
 
-You need to install the specific board manager to be able to recognize the right Arduino Board.
+[Shiftr.io](https://shiftr.io/)
 
-Tools —> Board —> Boards Manager —> Search for
+[Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Shiftr.ioExplained.md)
 
-Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
+# Stories
+We logged our experiences during the  making and testing of our bots in a daily journal. We noted moments of joy, painpoints and some reflections. Have a look through our stories and feel free to add your own!
 
-.
+[Stories](https://medium.com/connectek)
 
-**Install the following two libraries to get started:**
+# What can I reflect on?
+Every experience of making and living with the bots will be different; from the features that we decide to implement, to the struggles/triumphs in making and then eventually in how we interact with our personalised bots. 
+We encourage you to capture these unique moments and thoughts by keeping a journal and taking pictures. What intregued you about the bot today? What brought you joy? What was frustrating? Any unexpected revelations?
 
-You need to install the specific library to be able to recognize the code that make the connection with the WiFi and the Shiftr.io MQTT broker.
+By sharing our experiences we can create a greater collective understanding of how social robotics can have a positive or negative influence in our lives. 
 
-Go in Arduino to Sketch —> Include Library —> Manage Libraries —> Search for:
-
-WiFiNINA by Arduino
-
-MQTT by Joel Gaehwiller - you need to scroll more down to be able to find it
-
-MQTT Client by Andreas Motzek - click install all, so also Cooperative Multitasking
-
-And press on Install
-
-# Step 3: Change the code to your situation
-
-For this check in Preference: display line numbers.
-
-**Assign which subscriber you are:**
-
-Set on line 116 and line 120 which button you are, so /button1 or /button2 etc.
-```
-client.publish("/button1", “1");
-
-client.publish("/button1", "0");
-```
-Here above in the code you're seeign that your assigned as button 1.
-
-.
-
-**Setup WiFi and MQTT login code:**
-
-On line 6 and 7 you see:
-```
-const char WIFI_SSID[] = “”;
-
-const char WIFI_PASS[] = “”;
-```
-Fill in between “” your WiFi ID and Password.
-
-.
-
-On line 10, 11 and 12 you see:
-```
-const char key[] = ""; 
-
-const char secret[] = "";
-
-const char device[] = "";
-```
-Fill in between “” your key and secret you got from https://shiftr.io/
-
-At device[] between “” you can assign your name, so that on Shiftr.io you can recognize who you are.
-
-.
-
-**Assign the pins:**
-
-On line 21 you see:
-```
-const int buttonPin = ;
-```
-Fill in between = and ; your buttonPin number coming from the breadboard.
-
-.
-
-On line 27 till 30 you see:
-```
-int ledPin1 = ;
-
-int ledPin2 = ;
-
-int ledPin3 = ;
-
-int ledPin4 = ;
-```
-Fill in between = and ; your ledPin number coming from the breadboard. 
-
-Do it from left to right, so you know later from who the led light is coming.
-
-# Step 4 Run the code
-
-Now you are ready the run the code.
-
-You're able to start clicking the button to signaling over to eachother and switching lights on and off. 
-
-Also you can see yourself on shiftr.io.
-
-# Error solving
-
-Circuit: 
-- Can be that you need to turn the long and short leg of the led with eachother
-- Do used the right resistor and is it in the right row
-- Did assigned it to the right pin
-
-Connecting the board:
-- Be sure you installed the board manager for MKR WiFi 1010 Arduino
-- Select the right port and board
-- Still don't recognize, try to reset the Arduino by dubbel clicking on the reset button.
-
-Run the code doesn't work:
-- See if you installed all the libraries
-- See if you not accidentally wrote something in the code
-- New assigned variables are assigned at the top
-
-Still not working:
-- Did you assigned the right pin number for the leds and button?
-- Is your WiFi code correct?
-- Is your MQTT code correct?
-- Both subscriber assigned in Basic_LEDS and in connect file
-- Check the serial monitor in the right up corner if your getting signals through. You can test with this by writing Serial.print(); in between code.
-
-# Explain code
-
-[And see Code explained here](ExplainBasicCode.md)
-
-# Explain shiftr.io
-
-https://shiftr.io/get-started
-
-[And see Shiftr.io explained here](Shiftr.ioExplained.md)
+Your social needs are unique and so your story will be too.
