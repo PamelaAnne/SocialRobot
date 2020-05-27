@@ -16,6 +16,17 @@ Contributing Pull requests welcome
 
 Now we're gonna explain to you how you can set up the basic setup of the robot:
 
+# Steps how it work
+
+Begin with a basic setup, which consists of a simple LED protocol, by following the simple step by step instructions provided.  
+
+After that, it’s time to explore input and output sensors and actuators. Here you can really get creative, the possibilities are endless ;) 
+
+Get stuck? No problem! We have set up a forum for any extra support you might need. 
+
+We encourage makers of all skill levels to participate. this is an open community and beginners are more than welcome. 
+
+
 # Making the robot
 
 ## Step 1: Setup Arduino Schematics
