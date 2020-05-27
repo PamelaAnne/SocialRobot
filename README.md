@@ -36,7 +36,7 @@ With the basic setup your able to let your robots communicate over distance with
 
 2.4 [Error solving](https://github.com/PamelaAnne/SocialRobot/blob/master/ErrorSolving.md)
 
-2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainCode.md)
+2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainBasicCode.md)
 
 
 ## Step 3: Shiftr.io
