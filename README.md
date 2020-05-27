@@ -35,24 +35,24 @@ We encourage makers of all skill levels to participate. this is an open communit
 ## Step 1: Setup Arduino Schematics
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca.
 
-1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/SetupArduinoBoard.md)
+1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/SetupArduinoBoard.md)
 
-1.2 [Setting up in smaller steps](https://github.com/PamelaAnne/SocialRobot/blob/master/MoreStepByStep.md)
+1.2 [Setting up in smaller steps](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/MoreStepByStep.md)
 
 ![](Images/Schematic.png)
 
 ## Step 2: Arduino code
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
 
-2.1 [Install code](https://github.com/PamelaAnne/SocialRobot/blob/master/InstallCode.md)
+2.1 [Install code](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/InstallCode.md)
 
-2.2 [Change the code to your situation](https://github.com/PamelaAnne/SocialRobot/blob/master/ChangeCode.md)
+2.2 [Change the code to your situation](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/ChangeCode.md)
 
-2.3 [Run code](https://github.com/PamelaAnne/SocialRobot/blob/master/RunCode.md)
+2.3 [Run code](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/RunCode.md)
 
-2.4 [Error solving](https://github.com/PamelaAnne/SocialRobot/blob/master/ErrorSolving.md)
+2.4 [Error solving](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/ErrorSolving.md)
 
-2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainBasicCode.md)
+2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/ExplainBasicCode.md)
 
 ![](Images/Arduino.png)
 
@@ -61,7 +61,7 @@ With the basic setup of Shiftr.io, your robots can communicate with each other o
 
 [Shiftr.io](https://shiftr.io/)
 
-[Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Shiftr.ioExplained.md)
+[Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/Shiftr.ioExplained.md)
 
 ![](Images/Shiftr.png)
 
