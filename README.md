@@ -70,7 +70,7 @@ We logged our experiences during the  making and testing of our bots in a daily 
 
 [Stories](https://medium.com/connectek)
 
-![](Images/GroupImage.png)
+![](Images/GroupImage.jpeg)
 
 # What can I reflect on?
 Every experience of making and living with the bots will be different; from the features that we decide to implement, to the struggles/triumphs in making and then eventually in how we interact with our personalised bots. 
@@ -78,6 +78,6 @@ We encourage you to capture these unique moments and thoughts by keeping a journ
 
 By sharing our experiences we can create a greater collective understanding of how social robotics can have a positive or negative influence in our lives. 
 
-![](Images/Diary.png)
-
 Your social needs are unique and so your story will be too.
+
+![](Images/Diary.png)
