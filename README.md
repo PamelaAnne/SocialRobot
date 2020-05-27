@@ -1,3 +1,5 @@
+![](Images/Connectek.jpeg)
+
 # SocialRobot
 
 We invite you to join us in exploring the ways in which social robotics can support people in creating and discovering their social patterns and needs.
@@ -26,6 +28,7 @@ Get stuck? No problem! We have set up a forum for any extra support you might ne
 
 We encourage makers of all skill levels to participate. this is an open community and beginners are more than welcome. 
 
+![](Images/Steps.png)
 
 # Making the robot
 
@@ -35,6 +38,8 @@ With the basic setup your able to let your robots communicate over distance with
 1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/SetupArduinoBoard.md)
 
 1.2 [Setting up in smaller steps](https://github.com/PamelaAnne/SocialRobot/blob/master/MoreStepByStep.md)
+
+![](Images/Schematic.png)
 
 ## Step 2: Arduino code
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
@@ -49,6 +54,7 @@ With the basic setup your able to let your robots communicate over distance with
 
 2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainBasicCode.md)
 
+![](Images/Arduino.png)
 
 ## Step 3: Shiftr.io
 With the basic setup of Shiftr.io, your robots can communicate with each other over distance. Shiftr.io provides you with the ability to share your data and access data of others. Sharing data publicly is encouraged by the platform's design. In the future, we plan to have additional features that allow more interactions between users and their namespaces.
@@ -57,15 +63,21 @@ With the basic setup of Shiftr.io, your robots can communicate with each other o
 
 [Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Shiftr.ioExplained.md)
 
+![](Images/Shiftr.png)
+
 # Stories
 We logged our experiences during the  making and testing of our bots in a daily journal. We noted moments of joy, painpoints and some reflections. Have a look through our stories and feel free to add your own!
 
 [Stories](https://medium.com/connectek)
+
+![](Images/GroupImage.png)
 
 # What can I reflect on?
 Every experience of making and living with the bots will be different; from the features that we decide to implement, to the struggles/triumphs in making and then eventually in how we interact with our personalised bots. 
 We encourage you to capture these unique moments and thoughts by keeping a journal and taking pictures. What intregued you about the bot today? What brought you joy? What was frustrating? Any unexpected revelations?
 
 By sharing our experiences we can create a greater collective understanding of how social robotics can have a positive or negative influence in our lives. 
+
+![](Images/Diary.png)
 
 Your social needs are unique and so your story will be too.
