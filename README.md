@@ -1,4 +1,4 @@
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Connectek.jpeg" width="200">
+![](Images/Connectek.jpeg)
 
 # SocialRobot
 
@@ -39,7 +39,7 @@ With the basic setup your able to let your robots communicate over distance with
 
 1.2 [Setting up in smaller steps](https://github.com/PamelaAnne/SocialRobot/blob/master/MoreStepByStep.md)
 
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Schematic.png" width="400">
+![](Images/Schematic.png)
 
 ## Step 2: Arduino code
 With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
@@ -54,7 +54,7 @@ With the basic setup your able to let your robots communicate over distance with
 
 2.5 [Explain code](https://github.com/PamelaAnne/SocialRobot/blob/master/ExplainBasicCode.md)
 
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Arduino.png" width="400">
+![](Images/Arduino.png)
 
 ## Step 3: Shiftr.io
 With the basic setup of Shiftr.io, your robots can communicate with each other over distance. Shiftr.io provides you with the ability to share your data and access data of others. Sharing data publicly is encouraged by the platform's design. In the future, we plan to have additional features that allow more interactions between users and their namespaces.
@@ -63,14 +63,14 @@ With the basic setup of Shiftr.io, your robots can communicate with each other o
 
 [Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Shiftr.ioExplained.md)
 
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Shiftr.png" width="400">
+![](Images/Shiftr.png)
 
 # Stories
 We logged our experiences during the  making and testing of our bots in a daily journal. We noted moments of joy, painpoints and some reflections. Have a look through our stories and feel free to add your own!
 
 [Stories](https://medium.com/connectek)
 
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/GroupImage.jpeg" width="400">
+![](Images/GroupImage.jpeg)
 
 # What can I reflect on?
 Every experience of making and living with the bots will be different; from the features that we decide to implement, to the struggles/triumphs in making and then eventually in how we interact with our personalised bots. 
@@ -80,5 +80,5 @@ By sharing our experiences we can create a greater collective understanding of h
 
 Your social needs are unique and so your story will be too.
 
-<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Diary.png" width="400">
+![](Images/Diary.png)
 
