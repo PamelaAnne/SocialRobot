@@ -4,17 +4,15 @@
 
 We invite you to join us in exploring the ways in which social robotics can support people in creating and discovering their social patterns and needs.
 
-Our master branch contains all the code necessary for a basic set up, input and output. We have tried to make this process as modular as possible, so once you have your basic set up complete you can go wild! Customise your bot by using different sensors/actuators as input/output.
-Fork the repository or contribute to the Social-Robotics project.
-Our 'projects' branch, includes the various ways participants (including us!) have combined the different elements to best suit our social needs.
-For full instructions, background on the project and our stories visit our platform ---> ......
-
 Core team: Wendy, Jasper, Veronika, Pamela.
+
+Business Card --> *website link will go here
 
 License Social-Robotics is licensed under the GNU GPL V3 Licence https://www.gnu.org/licenses/gpl-3.0.txt
 
+Contributing pull requests welcome <3 
 
-Contributing Pull requests welcome
+
 
 Now we're gonna explain to you how you can set up the basic setup of the robot:
 
