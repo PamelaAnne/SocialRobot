@@ -1,4 +1,6 @@
-![](Images/Connectek.jpeg | width=48)
+![](Images/Connectek.jpeg)
+
+<img src="https://github.com/PamelaAnne/SocialRobot/blob/master/Images/Connectek.jpeg" width="48">
 
 # SocialRobot
 
