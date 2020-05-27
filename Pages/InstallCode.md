@@ -4,13 +4,13 @@
 
 https://www.arduino.cc/en/Main/Software
 
-.
+
 
 **Go to the follow Github link to grab your Arduino code:**
 
 Download the code with the green button in the top right corner and use the **folder Basic_LEDS.**
 
-.
+
 
 **Install the MKR WiFi 1010 Arduino board to get started:**
 
@@ -20,7 +20,7 @@ Tools —> Board —> Boards Manager —> Search for
 
 Arduino SAMD Boards (32-bits ARM Cortex-M0+) by Arduino
 
-.
+
 
 **Install the following two libraries to get started:**
 
