@@ -1,6 +1,6 @@
 # Step 3: Change the code to your situation
 
-For this check in Preference: display line numbers.
+For this check in Arduino programme under "Preferences": display line numbers.
 
 **Assign which subscriber you are:**
 
