@@ -4,13 +4,13 @@ For this check in Arduino programme under "Preferences": display line numbers.
 
 **Assign which subscriber you are:**
 
-Set on line 116 and line 120 which button you are, so /button1 or /button2 etc.
+Set on line 116 and line 120 which button you are, in this code you can choose between /button1, /button2, /button3 or /button4.
 ```
 client.publish("/button1", “1");
 
 client.publish("/button1", "0");
 ```
-Here above in the code you're seeign that your assigned as button 1.
+Here above in the code you're see that your assigned as button 1.
 
 .
 
