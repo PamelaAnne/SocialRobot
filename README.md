@@ -6,7 +6,7 @@ We invite you to join us in exploring the ways in which social robotics can supp
 
 Core team: Wendy, Jasper, Veronika, Pamela.
 
-Business Card --> *website link will go here
+Business Card --> https://team-robot.webflow.io/
 
 License Social-Robotics is licensed under the GNU GPL V3 Licence https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -30,7 +30,7 @@ We encourage makers of all skill levels to participate. this is an open communit
 # Making the robot
 
 ## Step 1: Setup Arduino Schematics
-With the basic setup your able to let your robots communicate over distance with each other. Here we run through what you will need and how to set up your arduino board using fritzling and step by step instructions.
+With the basic setup your able to let your robots communicate over distance with each other. Here we run through what you will need and how to set up your arduino board using fritzing and step by step instructions.
 
 1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/SetupArduinoBoard.md)
 
