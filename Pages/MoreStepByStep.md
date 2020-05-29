@@ -16,11 +16,15 @@ You need the following materials to setup the breadboard:
 
 Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLedNoMQTT**.
 
+When you connect your Arduino and open the code, you first compile the code and then upload it on your Arduino. Now you need to be able to switch on the light of the LED on and off with the button.
+
 This code doesn't use yet the MQTT broker Shiftr.io and WiFi network
 
 # Step 2
 
 Use now in the same folder the file **ButtonLed**.
+
+When you connect your Arduino and open the code, you first compile the code and then upload it on your Arduino. Now you need to be able to switch on the light of the LED on and off with the button, but it now it first signals through the MQTT broker of Shiftr.io
 
 This code does use the MQTT broker Shiftr.io and WiFi network.
 
@@ -40,6 +44,8 @@ You need the following materials to setup the breadboard:
 
 Use now in the same folder the file **ButtonLed2**.
 
+When you connect your Arduino and open the code, you first compile the code and then upload it on your Arduino. Now you can signal through Shiftr.io through clicking the button and your own led goes also on. But you can also receive a led signal from one other person.
+
 # Step 4
 
 You need the following materials to setup the breadboard:
@@ -55,3 +61,5 @@ You need the following materials to setup the breadboard:
 ![](Images/BasicSetup2.png)
 
 Use now the folder **Basic_LEDS**.
+
+When you connect your Arduino and open the code, you first compile the code and then upload it on your Arduino. Now you can signal through Shiftr.io through clicking the button and your own led goes also on. But you can also receive a led signal from three other persons.
