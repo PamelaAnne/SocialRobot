@@ -28,6 +28,9 @@ When you connect your Arduino and open the code, you first compile the code and 
 
 This code does use the MQTT broker Shiftr.io and WiFi network.
 
+See [Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/Shiftr.ioExplained.md) to know what this means and how to set this up.
+
+
 # Step 3
 
 You need the following materials to setup the breadboard:
