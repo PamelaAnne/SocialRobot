@@ -22,7 +22,7 @@ Begin with a basic setup, which consists of a simple LED protocol, by following 
 
 After that, it’s time to explore input and output sensors and actuators. Here you can really get creative, the possibilities are endless ;) 
 
-Get stuck? No problem! We have set up a forum for any extra support you might need. 
+Get stuck? No problem! We have set up a forum for any extra support you might need: https://whiterose.tribe.so/ 
 
 We encourage makers of all skill levels to participate. this is an open community and beginners are more than welcome. 
 
