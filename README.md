@@ -30,7 +30,7 @@ We encourage makers of all skill levels to participate. this is an open communit
 # Making the robot
 
 ## Step 1: Setup Arduino Schematics
-With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca.
+With the basic setup your able to let your robots communicate over distance with each other. Here we run through what you will need and how to set up your arduino board using fritzling and step by step instructions.
 
 1.1 [Schematics explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/SetupArduinoBoard.md)
 
@@ -39,7 +39,7 @@ With the basic setup your able to let your robots communicate over distance with
 ![](Images/Schematic.png)
 
 ## Step 2: Arduino code
-With the basic setup your able to let your robots communicate over distance with each other. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca. it a virus. A computer virus. Must go faster. I gave it a cold? I gave it a virus. A computer virus. Did he just throw my ca
+By building on the basic setup, you are now ready to get your robots to communicate over distance with each other. We will guide you through how to install your code, change the code to your situation (pick a button and set your wifi details)run your code. Having problems? Don't worry, we help with error solving ;)
 
 2.1 [Install code](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/InstallCode.md)
 
