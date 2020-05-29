@@ -14,7 +14,7 @@ You need the following materials to setup the breadboard:
 
 **Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
 
-Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLedNoMQTT**.
+Download the code with the green button in the top right corner and in the downloaded folder look for the folder **StepByStepBasic_LEDS** and use file **ButtonLedNoMQTT**.
 
 When you connect your Arduino and open the code, you first compile the code and then upload it on your Arduino. Now you need to be able to switch on the light of the LED on and off with the button.
 
