@@ -13,10 +13,9 @@ License Social-Robotics is licensed under the GNU GPL V3 Licence https://www.gnu
 Contributing pull requests welcome <3 
 
 
-
-Now we're gonna explain to you how you can set up the basic setup of the robot:
-
 # Steps how it work
+
+Now we will explain how you can set up the basic setup of the robot:
 
 Begin with a basic setup, which consists of a simple LED protocol, by following the simple step by step instructions provided.  
 
