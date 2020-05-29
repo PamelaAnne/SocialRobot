@@ -12,7 +12,7 @@ You need the following materials to setup the breadboard:
 
 ![](Images/BasicSetup2.jpg)
 
-**Go to the follow Github link to grab your Arduino code:**
+**Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
 
 Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLedNoMQTT**.
 
@@ -20,7 +20,7 @@ This code doesn't use yet the MQTT broker Shiftr.io and WiFi network
 
 # Step 2
 
-**Go to the follow Github link to grab your Arduino code:**
+**Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
 
 Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLed**.
 
@@ -40,7 +40,7 @@ You need the following materials to setup the breadboard:
 
 ![](Images/BasicSetup.jpg)
 
-**Go to the follow Github link to grab your Arduino code:**
+**Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
 
 Download the code with the green button in the top right corner and use the folder **StepByStepBasic_LEDS** and use file **ButtonLed2**.
 
@@ -58,6 +58,6 @@ You need the following materials to setup the breadboard:
 
 ![](Images/BasicSetup2.png)
 
-**Go to the follow Github link to grab your Arduino code:**
+**Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
 
 Download the code with the green button in the top right corner and use the folder **Basic_LEDS**.
