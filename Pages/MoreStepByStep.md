@@ -54,6 +54,4 @@ You need the following materials to setup the breadboard:
 
 ![](Images/BasicSetup2.png)
 
-**Go to https://github.com/PamelaAnne/SocialRobot to grab your Arduino code:**
-
-Download the code with the green button in the top right corner and use the folder **Basic_LEDS**.
+Use now the folder **Basic_LEDS**.
