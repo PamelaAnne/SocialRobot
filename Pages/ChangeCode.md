@@ -36,6 +36,8 @@ const char device[] = "";
 ```
 Fill in between “” your key and secret you got from https://shiftr.io/
 
+See [Shiftr.io explained](https://github.com/PamelaAnne/SocialRobot/blob/master/Pages/Shiftr.ioExplained.md) to know how to set this up.
+
 At device[] between “” you can assign your name, so that on Shiftr.io you can recognize who you are.
 
 .
